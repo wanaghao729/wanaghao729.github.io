@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hi!老王!</title>
+  
+  <subtitle>王浩</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hiwanghao.com/"/>
+  <updated>2019-11-01T08:54:44.321Z</updated>
+  <id>http://hiwanghao.com/</id>
+  
+  <author>
+    <name>王浩</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello LeetCode</title>
+    <link href="http://hiwanghao.com/2019/06/26/hello-leetcode/"/>
+    <id>http://hiwanghao.com/2019/06/26/hello-leetcode/</id>
+    <published>2019-06-26T14:32:51.000Z</published>
+    <updated>2019-11-01T08:54:44.321Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="LeetCode"><a href="#LeetCode" class="headerlink" title="LeetCode"></a>LeetCode</h1><p>全球极客挚爱的高质量技术成长平台，想要学习和提升专业能力从这里开始，充足技术干货等你来啃，轻松拿下 Dream Offer！</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(&quot;LeetCode is awesome!&quot;)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;LeetCode&quot;&gt;&lt;a href=&quot;#LeetCode&quot; class=&quot;headerlink&quot; title=&quot;LeetCode&quot;&gt;&lt;/a&gt;LeetCode&lt;/h1&gt;&lt;p&gt;全球极客挚爱的高质量技术成长平台，想要学习和提升专业能力从这里开始，充足技术干货等你来啃，轻
+      
+    
+    </summary>
+    
+    
+      <category term="本城" scheme="http://hiwanghao.com/categories/%E6%9C%AC%E5%9F%8E/"/>
+    
+    
+      <category term="LeetCode" scheme="http://hiwanghao.com/tags/LeetCode/"/>
+    
+      <category term="LeetCode中国" scheme="http://hiwanghao.com/tags/LeetCode%E4%B8%AD%E5%9B%BD/"/>
+    
+  </entry>
+  
+</feed>
